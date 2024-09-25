@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".signinactivity"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="133dp"
+        android:src="@drawable/logo2"
+        android:layout_marginBottom="5dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Learning Buddy"
+        android:textSize="40sp"
+        android:textColor="@color/Primary"
+        android:fontFamily="@font/lobster_two"
+        android:layout_marginBottom="40dp"/>
+
+    <EditText
+        android:id="@+id/getnamebyuser"
+        android:drawableLeft="@drawable/person"
+        android:background="@drawable/back1"
+        android:textColor="@color/black"
+        android:hint="Enter Name"
+        android:layout_width="320dp"
+        android:layout_height="52dp"
+        android:padding="10dp"
+        android:layout_marginBottom="40dp"/>
+
+    <EditText
+        android:id="@+id/getemailbyuser"
+        android:layout_width="320dp"
+        android:layout_height="52dp"
+        android:background="@drawable/back1"
+        android:drawableLeft="@drawable/email"
+        android:hint="Enter Email"
+        android:inputType="textEmailAddress"
+        android:padding="10dp"
+        android:layout_marginBottom="40dp"/>
+
+    <LinearLayout
+        android:layout_width="320dp"
+        android:layout_height="52dp"
+        android:background="@drawable/back1"
+        android:orientation="horizontal"
+        tools:ignore="ExtraText"
+        android:layout_marginBottom="40dp">
+
+        <com.hbb20.CountryCodePicker
+            android:id="@+id/codepicker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:ccp_showNameCode="false"
+            app:ccp_showPhoneCode="false"
+            android:layout_marginTop="7dp"
+            android:layout_marginLeft="2dp"/>
+
+        <EditText
+            android:id="@+id/getphonenumbyuser"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:hint="Enter Phone Number"
+            android:inputType="number"
+            android:layout_marginTop="14dp"/>
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/getpasswordbyuser"
+        android:layout_width="320dp"
+        android:layout_height="52dp"
+        android:background="@drawable/back1"
+        android:drawableLeft="@drawable/pass"
+        android:hint="Enter Password"
+        android:padding="10dp"
+        android:layout_marginBottom="40dp"/>
+
+    <Button
+        android:textColor="#FFFFFF"
+        android:textSize="25dp"
+        android:fontFamily="@font/poppins_regular"
+        android:id="@+id/signbutton"
+        android:layout_width="240dp"
+        android:layout_height="56dp"
+        android:backgroundTint="#61B9E3"
+        android:text="Sign Up"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/back1"/>
+
+</LinearLayout>

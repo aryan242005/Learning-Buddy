@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "579687527498",
+    "firebase_url": "https://layout-2-cd758-default-rtdb.firebaseio.com",
+    "project_id": "layout-2-cd758",
+    "storage_bucket": "layout-2-cd758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579687527498:android:45e32807e4e453b7b5a2b3",
+        "android_client_info": {
+          "package_name": "com.example.layout2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0TGZSf0O6fQP8WaaleJCWcL-nM3Qof0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

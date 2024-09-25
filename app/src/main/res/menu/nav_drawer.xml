@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/profile"
+        android:title="@string/nav_profile"
+        android:icon="@drawable/baseline_account_circle_24"/>
+    <item android:id="@+id/contactUs"
+        android:title="@string/nav_contact"
+        android:icon="@drawable/baseline_contact_support_24"/>
+    <item android:id="@+id/privacyPolicy"
+        android:title="@string/nav_privacy"
+        android:icon="@drawable/baseline_privacy_tip_24"/>
+    <item android:id="@+id/terms"
+        android:title="@string/nav_terms"
+        android:icon="@drawable/baseline_content_paste_24"/>
+    <item android:id="@+id/signOut"
+        android:title="@string/nav_signOut"
+        android:icon="@drawable/baseline_logout_24"/>
+</menu>

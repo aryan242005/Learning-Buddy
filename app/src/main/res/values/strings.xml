@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Learning Buddy</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Code</string>
+    <string name="title_notifications">Quiz</string>
+    <string name="login_btn">Login</string>
+    <string name="signup_btn">Sign Up</string>
+    <string name="email_hint">Enter e-mail address</string>
+    <string name="password_hint">Enter password</string>
+    <string name="LoginHeading">Login Page</string>
+    <string name="SignUpHeading">Sign Up Page</string>
+    <string name="new_password">Enter New Password</string>
+    <string name="again_password">Enter Password Again</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_contact">Contact Us</string>
+    <string name="nav_privacy">Privacy Policy</string>
+    <string name="nav_terms">Terms Of Use</string>
+    <string name="nav_signOut">Sign Out</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="course1">Java</string>
+    <string name="course2">Python</string>
+    <string name="course3">JavaScript</string>
+    <string name="course4">PHP</string>
+    <string name="course5">C++</string>
+    <string name="play">Start</string>
+    <string name="confirm">Confirm</string>
+    <string name="scores">Score</string>
+    <string name="resend_the_otp">resend the otp </string>
+    <string name="verify">Verify</string>
+    <string name="otp">OTP</string>
+    <string name="enter_otp_sent_to_your_phone">Enter OTP Sent To Your Phone</string>
+
+    <string name="Forget">Forget Password</string>
+    <string name="UserName">User Name</string>
+    <string name="NewPassword">New Password</string>
+    <string name="BackToLogin">Back to Login</string>
+    <string name="QuestionAppear">Question Appears Here</string>
+    <string name="OptionA">Option A</string>
+    <string name="OptionB">Option B</string>
+    <string name="OptionC">Option C</string>
+    <string name="OptionD">Option D</string>
+    <string name="Number">100</string>
+    <string name="Status">Status</string>
+    <string name="showAnswers">ShowAnswers</string>
+    <string name="startCoding">Start Coding</string>
+    <string name="privacyPolicy">Our privacy policy at Learning Buddy underscores our commitment to safeguarding the privacy and security of our users\' personal information. As a study app designed to facilitate learning programming languages, we collect minimal data necessary to enhance user experience and provide personalized learning opportunities. This may include basic account information such as email addresses and usernames, as well as user-generated content such as study progress and preferences. Rest assured, we do not share this information with third parties for commercial purposes. Any data collected is used solely to improve our services, customize content, and ensure efficient app functionality. We employ industry-standard security measures to protect against unauthorized access, disclosure, alteration, or destruction of users\' personal information. By using Learning Buddy, users implicitly consent to the collection and use of their data in accordance with this privacy policy. We are committed to transparent communication regarding any updates or changes to our privacy practices, ensuring users remain informed and empowered regarding the handling of their personal information.</string>
+
+    <string name="term1">- Access granted for personal, non-commercial use only.</string>
+    <string name="term2">- Users expected to maintain respectful behavior and legal compliance.</string>
+    <string name="term3">- Content accuracy is not guaranteed by the app.</string>
+    <string name="term4">- Intellectual property rights are protected by the app.</string>
+    <string name="term5">- User data is kept confidential and secure.</string>
+    <string name="term6">- The app holds no liability for damages incurred.</string>
+    <string name="term7">- The app reserves the right to terminate accounts for violations of terms.</string>
+</resources>

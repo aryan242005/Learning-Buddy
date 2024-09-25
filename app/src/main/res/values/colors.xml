@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="textColor">#313131</color>
+    <color name="colorPrimary">#000080</color>
+    <color name="colorOrangeBaseDark">#000080</color>
+
+    <color name="background">#000080</color>
+
+    <color name="bgcolr">#ffffff</color>
+    <color name="Primary">#000080</color>
+    <color name="Secondary">#000080</color>
+    <color name="Tertiary">#000080</color>
+    <color name="wrong">#A13535</color>
+    <color name="right">#44A54B</color>
+</resources>
